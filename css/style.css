@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    margin: 40px 50px 40px 50px;
+    background-color: brown;
+}
+.container{
+    background-color: lightcoral;
+}
+ul{
+    display: inline-block;
+    
+}.flex1{
+    display: flex;
+    background-color: black;
+    padding: 10px;
+}.items{
+    background-color: white;
+    padding: 10px;
+    flex: 1;
+    border: 1px solid;
+    border-color: blue;
+}
+
+.links {
+    border: 1px solid #fff;  /* For debugging */
+    display: flex;
+    flex-direction: column;
+    
+
+  }.waw{
+    margin: 10px;
+    border: 1px solid blue;
+  }
+  
+  .test {
+    flex: 1;
+    border: 1px solid #fff;  
+  }
+  .menu {
+    border: 1px solid #fff;
+    display: flex;
+
+  }
